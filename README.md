@@ -16,9 +16,6 @@ The report provides insights into workforce distribution, promotions, hiring pat
 - **Promotion by Level** – employee count and % women promoted by job level  
 
 ## 🖼️ Dashboard Preview
-
-_(Upload your screenshots to the repo and update the paths below.)_
-
 ![Dashboard View 1](Image1.png)  
 ![Dashboard View 2](Image2.png)
 
